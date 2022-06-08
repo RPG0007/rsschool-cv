@@ -1,7 +1,8 @@
-#Personal Data
+# My CV
+## Personal Data
 __Konstantsin Shevel__
-![](avatar.png) 
-##Contacts:
+![](Avatar.png)
+## Contacts:
 1. Discord :RPG
 2. Email : zzkostyazz25@mail.ru
 3. Github : RPG0007
