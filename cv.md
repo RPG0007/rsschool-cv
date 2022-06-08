@@ -18,3 +18,9 @@ public class CustomMath {
     }
 }
 ```
+## Past expirience
+[Project CV](https://github.com/RPG0007/rsschool-cv)
+## Education
+_2 years of university after high school_
+## English level
+__B2__
