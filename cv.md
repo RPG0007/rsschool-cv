@@ -6,7 +6,7 @@ __Konstantsin Shevel__
 1. Discord :RPG
 2. Email : zzkostyazz25@mail.ru
 3. Github : RPG0007
-##About myself
+## About myself
 __I would like to become front-end developer with potential growth to back-end.__ 
 ## Skills
 1. Basic knowledge of C# and C++
